@@ -5,7 +5,7 @@ MarkupSafe==2.1.5
 Jinja2==3.1.4
 Pygments==1.6
 SQLAlchemy==0.9.6
-Werkzeug==3.0.3
+Werkzeug==3.0.4
 httpie==3.2.3
 itsdangerous==0.24
 python-dateutil==2.2
