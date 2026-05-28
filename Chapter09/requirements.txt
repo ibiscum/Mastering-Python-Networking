@@ -6,7 +6,7 @@ Jinja2==3.1.6
 Pygments==1.6
 SQLAlchemy==0.9.6
 Werkzeug==3.1.6
-httpie==3.2.3
+httpie==3.2.4
 itsdangerous==0.24
 python-dateutil==2.9.0.post0
 requests==2.33.0
